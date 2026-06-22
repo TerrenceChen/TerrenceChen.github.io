@@ -7,21 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="/files/Terrence_Chen_CV.pdf"
+        width="100%"
+        height="1000px">
+</iframe>
 
-Education
-======
-* Ph.D in Sociology, New York University, 2028 (expected)
-* B.A. in Sociology, National Taiwan University, 2021
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Download PDF](/files/Terrence_Chen_CV.pdf)

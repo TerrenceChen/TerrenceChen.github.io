@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="files/CV - Terrence Chen - 2026.pdf"
+<iframe src="/files/CV%20-%20Terrence%20Chen%20-%202026.pdf"
         width="100%"
         height="1000px">
 </iframe>
 
-[Download PDF](files/CV - Terrence Chen - 2026.pdf)
+[Download PDF](/files/CV%20-%20Terrence%20Chen%20-%202026.pdf)

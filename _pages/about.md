@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a political and historical sociologist studying patterns of political contestation and public discourse in democratic states. My work combines computational text analysis and qualitative archival methods. 
 
 I am currently a PhD Candidate in Sociology at New York University. I received my B.A. in Sociology from National Taiwan University (2021).

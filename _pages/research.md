@@ -18,7 +18,7 @@ Combining computational text analysis of more than 8 million congressional speec
 
 ## Tracing Politicization in U.S. Public Discourse, 1980-2024
 
-*Under Review*
+*Conditionally Accepted at Sociological Science*
 
 **Question**: How has American public discourse become more politicized?
 

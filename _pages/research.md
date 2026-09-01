@@ -20,7 +20,7 @@ Using large language models to analyze over 8 million congressional floor speech
 
 *Conditionally Accepted at Sociological Science*
 
-**Question**: How has American public discourse become more politicized?
+**Question**: How has the boundary of the "political" in American public discourse changed over time?
 
 Using word embedding models trained on 1.35 million newspaper articles, I develop a new measure of discursive politicization and trace its trajectory across 131 issue areas between 1980 and 2024. Politicization has increased substantially over the past four decades and expanded beyond traditional political issues into many areas of social life. The perceived center of political conflict has also shifted, with race and immigration, gender and family, and legal institutions becoming more politicized than economic issues. This paper challenges how we think about “politics” as a fundamental category in social science: rather than treating the meaning of politics as stable, I show how the boundary and content of politics are constantly redefined in different historical periods.
 

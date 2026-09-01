@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a political and economic sociologist with strong training in cultural and historical analysis. My research examines the partisan, discursive, and participatory dimensions of democratic politics. Using computational text analysis, large language models, historical archival methods, qualitative in-depth interviews, and statistical methods, I explore how political parties construct governing visions that constrain democratic possibilities, as well as how public discourse and civic engagement expand and challenge the official boundaries of politics. 
+I am a political, cultural, and historical sociologist studying patterns of political contestation and public discourse in democratic societies. Using computational text analysis, large language models, historical archival methods, qualitative in-depth interviews, and statistical methods, I explore how political parties construct governing visions that constrain democratic possibilities, as well as how public discourse and civic engagement expand and challenge the official boundaries of politics. 
 
 My dissertation, *Fiscalization of Politics: Budget Talk as Political Justification in the U.S., 1921–2024*, examines how American politicians use discourse about budget deficits, public debt, and taxpayer money to debate and justify public policy. It seeks to explain why Democrats have increasingly embraced fiscal responsibility since the 1970s, while Republicans have tended to emphasize budget concerns primarily when Democrats are in power.
 

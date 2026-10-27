@@ -18,7 +18,7 @@ Using large language models to analyze over 8 million congressional floor speech
 
 ## Tracing Politicization in U.S. Public Discourse, 1980-2024
 
-*Forthcoming in Sociological Science*  [[Paper](https://osf.io/mwz2f/files/c863s)]
+Published in [*Sociological Science*](https://sociologicalscience.com/articles-v13-46-1204/)
 
 **Question**: How has the boundary of the "political" in American public discourse changed over time?
 
